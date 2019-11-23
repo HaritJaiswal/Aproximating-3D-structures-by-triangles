@@ -1,3 +1,6 @@
+Storing 3D structures as graphs by approximating them by triangles:
+Graphs were used to store the triangles and various queries were answered regarding connectivity, centroid of components, diameter and neighbours, efficiently. Hashing was also employed in adjacency lists so as to speed up the process of searching.
+
 ////////////////////////////////////////////////////////////////////////////////////////
 README for Assignemnt-6
 CustomArrayList is made to store vertices, edges, triangles as nodes of graph and triangle_edges, i.e., triangle which are adjacent(have common edge).
